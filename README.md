@@ -24,9 +24,13 @@
 ##
 
 <div>
+
+
   <a href="https://www.instagram.com/nossa_walace/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:walbarros1924@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/walace-keystone-de-barros-119a4026a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-![MuaKissGIF](https://github.com/user-attachments/assets/9dd93748-82ab-446b-8a81-4f1c40cec549)
+
+
+
 

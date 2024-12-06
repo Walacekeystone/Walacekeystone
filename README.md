@@ -30,4 +30,4 @@
   <a href="https://www.linkedin.com/in/walace-keystone-de-barros-119a4026a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![MuaKissGIF](https://github.com/user-attachments/assets/35f8d98a-4bac-439c-b69b-a0c3e34066a4)
+

@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho com Moodle.
 - 🌱 Estudando Python.
-- 😄 Pronomes: Ele/Dele.
+
 
 ##
 

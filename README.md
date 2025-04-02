@@ -1,7 +1,8 @@
 ## Olá, eu sou o Walace 👋
 
 - 🔭 Hoje eu trabalho com Moodle.
-- 🌱 Estudando Python.
+- 🌱 Estudando Python e Java.
+
 
 
 ##

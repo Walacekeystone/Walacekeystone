@@ -7,9 +7,13 @@
 
 <div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Walacekeystone&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walacekeystone&layout=compact&langs_count=7&theme=tokyonight" width= "400px"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walacekeystone&layout=compact&langs_count=7&theme=tokyonight" width= "350px"/>
   <img align="center" src="https://github.com/user-attachments/assets/5d701bf0-8dd1-4bcb-9079-e30d562993a4" width= "300px">
 </div>
+
+## 
+
+
 
 ## Tecnologias que uso:
 

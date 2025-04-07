@@ -28,16 +28,11 @@
 ---
 
 
-## 🖼️ Um pouco sobre mim
 <div align="alright">
   <img src="https://github.com/user-attachments/assets/5d701bf0-8dd1-4bcb-9079-e30d562993a4" width="300px"/>
 </div>
 
-Sou um jovem apaixonado por tecnologia, sempre buscando aprender algo novo e melhorar minhas habilidades.
- Trabalho com Moodle, uma plataforma educacional, onde desenvolvo soluções e dou suporte.
- Atualmente, estou focado nos estudos de Python e Java, com o objetivo de crescer como desenvolvedor e me tornar cada vez mais preparado para os desafios do mercado.
 
-Além da programação, também me interesso por sistemas operacionais Linux, especialmente trabalhando no terminal. Gosto de estudar por conta própria e colocar meus conhecimentos em prática através de projetos reais.  
 
 
 

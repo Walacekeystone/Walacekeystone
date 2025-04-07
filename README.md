@@ -1,11 +1,11 @@
-## 👋 Olá, eu sou o Walace
+## 👋 Hello, I'm Walace
 
-- 🔧 Atualmente trabalho com **Moodle**.  
-- 🌱 Estudando **Python** e **Java**.  
+- 🔧 Currently working with **Moodle**.  
+- 🌱 Studying **Python** and **Java**.  
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🚀 Technologies I use
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -27,19 +27,13 @@
 
 ---
 
-
 <div align="alright">
   <img src="https://github.com/user-attachments/assets/5d701bf0-8dd1-4bcb-9079-e30d562993a4" width="300px"/>
 </div>
 
-
-
-
-
-
 ---
 
-## 🌍 Contato
+## 🌍 Contact
 
 <div align="center">
   <a href="https://www.instagram.com/nossa_walace/" target="_blank">
@@ -62,4 +56,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walacekeystone/walacekeystone/output/github-contribution-grid-snake.svg">
   <img alt="snake animation" src="https://raw.githubusercontent.com/walacekeystone/walacekeystone/output/github-contribution-grid-snake.svg"/>
 </picture>
-
